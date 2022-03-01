@@ -69,3 +69,7 @@ Nama = Bagas Prambudi Nim = 2031710108
 Gambar transform
 ![gambar transform](img/transform.png)
 Nama = Bagas Prambudi Nim = 2031710108
+
+Gambar praktikum
+![gambar praktikum](img/praktikum.png)
+Nama = Bagas Prambudi Nim = 2031710108
